@@ -1,3 +1,7 @@
+.header {
+    z-index: 10;
+}
+
 .dropdown-item-no-icon {
     padding-left: 24px;
 }
